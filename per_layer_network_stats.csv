@@ -1,0 +1,4 @@
+,layer_name,no_of_nodes,node_connectedness,diameter,average_path_length,density,transitivity,clustering_coefficient,average_degree,neighborhood,vertice_connectedness,clustering_coeffiecient_vertices,degree_adjacent_vertices
+0,Tweet Layer,1374,False,False,False,0.000734693098655607,0,0.0,1.0087336244541485,1,True,0,1
+1,Human Layer,824,False,False,False,0.0015719189798157345,0,0.0,1.2936893203883495,0,False,0,0
+2,Bot Layer,562,False,False,False,0.002004554652660158,0,0.0,1.1245551601423487,3,True,0,3
