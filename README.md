@@ -10,13 +10,19 @@ Install requirements:
 - requests
 - pandas
 - numpy
-- botometer
-- tweepy
-- scipy
-- pymnet
 - matplotlib
-- deepgraph
-- multinetx
+- networkx
+- nxviz
+- python-louvain
+- py3plex
+- kuramoto
+- seaborn
+- sklearn
+- scipy
+- numba
+- july
+- moment
+- miditime
 
 ### OS Requirements
 
@@ -38,3 +44,7 @@ You can then proceed to aggregate data by running `correlate-data.py`
 # You need python 3.x to run this.
 python3 correlate-data.py
 ```
+
+### Running the Paper Implementation
+
+You can run the research paper implementation using vscode and opening **Paper Impelementation.ipynb** or opening it in Jupyter notebook
