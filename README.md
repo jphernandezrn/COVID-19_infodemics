@@ -10,13 +10,19 @@ Install requirements:
 - requests
 - pandas
 - numpy
-- botometer
-- tweepy
-- scipy
-- pymnet
 - matplotlib
-- deepgraph
-- multinetx
+- networkx
+- nxviz
+- python-louvain
+- py3plex
+- kuramoto
+- seaborn
+- sklearn
+- scipy
+- numba
+- july
+- moment
+- miditime
 
 ### OS Requirements
 
