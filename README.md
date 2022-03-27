@@ -1,4 +1,4 @@
-# COVID-19 infodemic in the Twitterverse: Characterization of misinformation spread and Twitter bot mediation by critical mass, energy decay, chaotic (co)entanglement, and node synchronization using multilayer spectral visualization and quantum wave simulation
+# verigram
 
 Research project from generating spectral diagrams to visualize misinformations of Twitter.
 
